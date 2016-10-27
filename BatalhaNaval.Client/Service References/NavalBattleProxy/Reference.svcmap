@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="57ccd30d-27f6-433e-b807-126fe1e28d04" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:63521/NavalBattleService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="NavalBattleService.disco" MetadataType="Disco" ID="ed653473-d8c5-4c5f-8efe-f401c51b3db2" SourceId="1" SourceUrl="http://localhost:63521/NavalBattleService.svc?disco" />
+    <MetadataFile FileName="NavalBattleService.xsd" MetadataType="Schema" ID="53aa9737-6923-4fab-a87e-71a209f95a5c" SourceId="1" SourceUrl="http://localhost:63521/NavalBattleService.svc?xsd=xsd0" />
+    <MetadataFile FileName="NavalBattleService1.xsd" MetadataType="Schema" ID="d4832bc5-0eb0-4351-b8c4-bf2ce2baef74" SourceId="1" SourceUrl="http://localhost:63521/NavalBattleService.svc?xsd=xsd1" />
+    <MetadataFile FileName="NavalBattleService2.xsd" MetadataType="Schema" ID="1229feae-a90f-47af-ab6d-d86d318b7a21" SourceId="1" SourceUrl="http://localhost:63521/NavalBattleService.svc?xsd=xsd2" />
+    <MetadataFile FileName="NavalBattleServiceImplementation.wsdl" MetadataType="Wsdl" ID="e71048f2-9d21-4c8a-a3fe-7a4937565b44" SourceId="1" SourceUrl="http://localhost:63521/NavalBattleService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

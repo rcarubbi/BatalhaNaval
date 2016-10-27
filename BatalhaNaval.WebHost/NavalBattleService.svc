@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="BatalhaNaval.Services.Implementation.NavalBattleServiceImplementation" CodeBehind="BatalhaNaval.Services.Implementation.NavalBattleServiceImplementation.cs" %>

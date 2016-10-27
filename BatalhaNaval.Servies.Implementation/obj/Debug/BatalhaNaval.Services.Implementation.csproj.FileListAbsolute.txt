@@ -1,0 +1,16 @@
+C:\Users\rapbbii\Desktop\projetos\BatalhaNaval\BatalhaNaval.Servies.Implementation\bin\Debug\BatalhaNaval.Services.Implementation.dll.config
+C:\Users\rapbbii\Desktop\projetos\BatalhaNaval\BatalhaNaval.Servies.Implementation\bin\Debug\BatalhaNaval.Services.Implementation.dll
+C:\Users\rapbbii\Desktop\projetos\BatalhaNaval\BatalhaNaval.Servies.Implementation\bin\Debug\BatalhaNaval.Services.Implementation.pdb
+C:\Users\rapbbii\Desktop\projetos\BatalhaNaval\BatalhaNaval.Servies.Implementation\bin\Debug\BatalhaNaval.Services.dll
+C:\Users\rapbbii\Desktop\projetos\BatalhaNaval\BatalhaNaval.Servies.Implementation\bin\Debug\BatalhaNaval.Services.pdb
+C:\Users\rapbbii\Desktop\projetos\BatalhaNaval\BatalhaNaval.Servies.Implementation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rapbbii\Desktop\projetos\BatalhaNaval\BatalhaNaval.Servies.Implementation\obj\Debug\BatalhaNaval.Services.Implementation.dll
+C:\Users\rapbbii\Desktop\projetos\BatalhaNaval\BatalhaNaval.Servies.Implementation\obj\Debug\BatalhaNaval.Services.Implementation.pdb
+C:\Users\Raphael\Desktop\BatalhaNaval\BatalhaNaval\BatalhaNaval.Servies.Implementation\bin\Debug\BatalhaNaval.Services.Implementation.dll.config
+C:\Users\Raphael\Desktop\BatalhaNaval\BatalhaNaval\BatalhaNaval.Servies.Implementation\bin\Debug\BatalhaNaval.Services.Implementation.dll
+C:\Users\Raphael\Desktop\BatalhaNaval\BatalhaNaval\BatalhaNaval.Servies.Implementation\bin\Debug\BatalhaNaval.Services.Implementation.pdb
+C:\Users\Raphael\Desktop\BatalhaNaval\BatalhaNaval\BatalhaNaval.Servies.Implementation\bin\Debug\BatalhaNaval.Services.dll
+C:\Users\Raphael\Desktop\BatalhaNaval\BatalhaNaval\BatalhaNaval.Servies.Implementation\bin\Debug\BatalhaNaval.Services.pdb
+C:\Users\Raphael\Desktop\BatalhaNaval\BatalhaNaval\BatalhaNaval.Servies.Implementation\obj\Debug\BatalhaNaval.Services.Implementation.csprojResolveAssemblyReference.cache
+C:\Users\Raphael\Desktop\BatalhaNaval\BatalhaNaval\BatalhaNaval.Servies.Implementation\obj\Debug\BatalhaNaval.Services.Implementation.dll
+C:\Users\Raphael\Desktop\BatalhaNaval\BatalhaNaval\BatalhaNaval.Servies.Implementation\obj\Debug\BatalhaNaval.Services.Implementation.pdb

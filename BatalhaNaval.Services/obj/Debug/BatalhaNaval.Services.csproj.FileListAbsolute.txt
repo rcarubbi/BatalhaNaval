@@ -1,0 +1,12 @@
+C:\Users\rapbbii\Desktop\projetos\BatalhaNaval\BatalhaNaval.Services\bin\Debug\BatalhaNaval.Services.dll.config
+C:\Users\rapbbii\Desktop\projetos\BatalhaNaval\BatalhaNaval.Services\bin\Debug\BatalhaNaval.Services.dll
+C:\Users\rapbbii\Desktop\projetos\BatalhaNaval\BatalhaNaval.Services\bin\Debug\BatalhaNaval.Services.pdb
+C:\Users\rapbbii\Desktop\projetos\BatalhaNaval\BatalhaNaval.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rapbbii\Desktop\projetos\BatalhaNaval\BatalhaNaval.Services\obj\Debug\BatalhaNaval.Services.dll
+C:\Users\rapbbii\Desktop\projetos\BatalhaNaval\BatalhaNaval.Services\obj\Debug\BatalhaNaval.Services.pdb
+C:\Users\Raphael\Desktop\BatalhaNaval\BatalhaNaval\BatalhaNaval.Services\bin\Debug\BatalhaNaval.Services.dll.config
+C:\Users\Raphael\Desktop\BatalhaNaval\BatalhaNaval\BatalhaNaval.Services\bin\Debug\BatalhaNaval.Services.dll
+C:\Users\Raphael\Desktop\BatalhaNaval\BatalhaNaval\BatalhaNaval.Services\bin\Debug\BatalhaNaval.Services.pdb
+C:\Users\Raphael\Desktop\BatalhaNaval\BatalhaNaval\BatalhaNaval.Services\obj\Debug\BatalhaNaval.Services.csprojResolveAssemblyReference.cache
+C:\Users\Raphael\Desktop\BatalhaNaval\BatalhaNaval\BatalhaNaval.Services\obj\Debug\BatalhaNaval.Services.dll
+C:\Users\Raphael\Desktop\BatalhaNaval\BatalhaNaval\BatalhaNaval.Services\obj\Debug\BatalhaNaval.Services.pdb

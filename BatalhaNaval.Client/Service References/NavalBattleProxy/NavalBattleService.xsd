@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:63521/NavalBattleService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/System.Drawing" />
+  <xs:element name="Login">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="playerName" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Play">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="playerName" nillable="true" type="xs:string" />
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/System.Drawing" minOccurs="0" name="coordinate" type="q1:Point" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PutShip">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="playerName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="shipType" type="xs:int" />
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/System.Drawing" minOccurs="0" name="coordinates" nillable="true" type="q2:ArrayOfPoint" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Ready">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="playerName" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NotifyLogin">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="playerName" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NotifyLoginResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NotifyPlay">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="playerName" nillable="true" type="xs:string" />
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/System.Drawing" minOccurs="0" name="coordinate" type="q3:Point" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NotifyPlayResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NotifyPutShip">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="playerName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="shipType" type="xs:int" />
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/System.Drawing" minOccurs="0" name="coordinates" nillable="true" type="q4:ArrayOfPoint" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NotifyPutShipResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NotifyShipDestruction">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="playerSource" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="playerTarget" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="tipoNavio" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NotifyShipDestructionResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NotifyWaterShoot">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="playerSource" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="playerTarget" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NotifyWaterShootResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NotifyShipHit">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="playerSource" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="playerTarget" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="tipoNavio" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NotifyShipHitResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SetToken">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SetTokenResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NotifyIlegalCall">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="message" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NotifyIlegalCallResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
